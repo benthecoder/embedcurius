@@ -7,7 +7,7 @@ from embed import generate_embeddings_and_metadata, get_curius_links, save_to_ts
 
 st.title("embedcurius")
 st.markdown(
-    "Generate embeddings for your Curius links to visualize on [Embedding Projector](https://projector.tensorflow.org/)."
+    "Generate embeddings for your [curius](https://curius.app/benedict-neo) links to visualize on [Embedding Projector](https://projector.tensorflow.org/)."
 )
 
 # enter openai key
