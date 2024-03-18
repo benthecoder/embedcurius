@@ -4,6 +4,8 @@ Using [The Embedding Projector](https://projector.tensorflow.org/) ([paper](http
 
 Embeddings using OpenAI's [latest](https://openai.com/blog/new-embedding-models-and-api-updates) `text-embedding-3-small`
 
+See the visualization below [here](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/benthecoder/6a24dba2cbbe3db49ad5fd3df081c89d/raw/39a20439d9da0f440e452d3b3667f5e490785cf3/template_projector_config.json)
+
 ![embeddings](images/embedding.png)
 
 ## examples
